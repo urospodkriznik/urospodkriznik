@@ -12,6 +12,7 @@ RAG pipelines, document processing, LLM-based analysis workflows.
 Hybrid search (vector + keyword + metadata filters) on Azure AI Search,
 ingestion pipeline from a relational database, LLM-based analysis layer for end users.
 The hard part was making it work inside a real codebase and business workflow - not the AI itself.
+📄 [Full case study](https://github.com/urospodkriznik/urospodkriznik/blob/main/rag-case-study-sep.md)
 
 **Epsinum (co-founder, 2024–2025)** - AI startup in financial compliance.
 RAG pipelines for private financial documents, automated actuarial report analysis,
